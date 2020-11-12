@@ -1,0 +1,46 @@
+adetiba    7223  0.0  0.0 373640 16116 ?        Ssl  Nov09   0:00  \_ /usr/libexec/gsd-datetime
+oadetiba    7224  0.0  0.0 311748  7632 ?        Ssl  Nov09   0:04  \_ /usr/libexec/gsd-housekeeping
+oadetiba    7225  0.0  0.1 419680 28640 ?        Ssl  Nov09   0:00  \_ /usr/libexec/gsd-keyboard
+oadetiba    7226  0.0  0.1 901248 31228 ?        Ssl  Nov09   0:00  \_ /usr/libexec/gsd-media-keys
+oadetiba    7227  0.0  0.1 420236 29636 ?        Ssl  Nov09   0:00  \_ /usr/libexec/gsd-power
+oadetiba    7228  0.0  0.0 248256 11248 ?        Ssl  Nov09   0:00  \_ /usr/libexec/gsd-print-notifications
+oadetiba    7229  0.0  0.0 457128  6204 ?        Ssl  Nov09   0:00  \_ /usr/libexec/gsd-rfkill
+oadetiba    7234  0.0  0.0 235536  5820 ?        Ssl  Nov09   0:00  \_ /usr/libexec/gsd-screensaver-proxy
+oadetiba    7236  0.0  0.0 464800 10428 ?        Ssl  Nov09   0:06  \_ /usr/libexec/gsd-sharing
+oadetiba    7241  0.0  0.0 462644  8548 ?        Ssl  Nov09   0:00  \_ /usr/libexec/gsd-smartcard
+oadetiba    7249  0.0  0.0 319284  9012 ?        Ssl  Nov09   0:00  \_ /usr/libexec/gsd-sound
+oadetiba    7251  0.0  0.0 458712  7076 ?        Ssl  Nov09   0:00  \_ /usr/libexec/gsd-usb-protection
+oadetiba    7256  0.0  0.1 345392 28188 ?        Ssl  Nov09   0:00  \_ /usr/libexec/gsd-wacom
+oadetiba    7261  0.0  0.0 387736  7936 ?        Ssl  Nov09   0:00  \_ /usr/libexec/gsd-wwan
+oadetiba    7262  0.0  0.1 346688 29820 ?        Ssl  Nov09   0:00  \_ /usr/libexec/gsd-xsettings
+oadetiba    7291  0.0  0.0 342220 15092 ?        Sl   Nov09   0:00  \_ /usr/libexec/gsd-printer
+oadetiba    7388  0.0  2.8 1491268 468460 ?      Sl   Nov09   0:35  \_ /snap/snap-store/481/usr/bin/snap-store --gapplication-service
+oadetiba    7422  0.0  0.0 531152  6244 ?        Ssl  Nov09   0:00  \_ /usr/libexec/xdg-document-portal
+oadetiba    8511  0.0  0.0 162380  6396 ?        Ssl  Nov09   0:00  \_ /usr/libexec/gvfsd-metadata
+oadetiba    9890  0.0  0.3 819684 52612 ?        Ssl  Nov09   0:07  \_ /usr/libexec/gnome-terminal-server
+oadetiba    9898  0.0  0.0  10308  4572 pts/1    Ss+  Nov09   0:00  |   \_ bash
+oadetiba   11047  0.2  2.8 3907376 464528 ?      Sl   Nov09   7:18  \_ /usr/lib/firefox/firefox -new-window
+oadetiba   11119  0.0  1.2 2506396 204420 ?      Sl   Nov09   0:41  |   \_ /usr/lib/firefox/firefox -contentproc -childID 1 -isForBrowser -prefsLen 1 -prefMapSize 228546 -parentBuildID 20201027185343 -appdir /usr/lib/firefox/browser 11047 true tab
+oadetiba   11161  0.0  0.8 2427908 135796 ?      Sl   Nov09   0:16  |   \_ /usr/lib/firefox/firefox -contentproc -childID 2 -isForBrowser -prefsLen 308 -prefMapSize 228546 -parentBuildID 20201027185343 -appdir /usr/lib/firefox/browser 11047 true tab
+oadetiba   11188  0.0  0.8 2425712 131832 ?      Sl   Nov09   1:14  |   \_ /usr/lib/firefox/firefox -contentproc -childID 3 -isForBrowser -prefsLen 6462 -prefMapSize 228546 -parentBuildID 20201027185343 -appdir /usr/lib/firefox/browser 11047 true tab
+oadetiba   11659  0.0  0.8 2446504 146612 ?      Sl   Nov09   0:18  |   \_ /usr/lib/firefox/firefox -contentproc -childID 9 -isForBrowser -prefsLen 10083 -prefMapSize 228546 -parentBuildID 20201027185343 -appdir /usr/lib/firefox/browser 11047 true tab
+oadetiba   11690  0.0  0.9 2507920 151152 ?      Sl   Nov09   0:21  |   \_ /usr/lib/firefox/firefox -contentproc -childID 10 -isForBrowser -prefsLen 10083 -prefMapSize 228546 -parentBuildID 20201027185343 -appdir /usr/lib/firefox/browser 11047 true tab
+oadetiba   11888  0.0  1.1 2527108 191800 ?      Sl   Nov09   0:13  |   \_ /usr/lib/firefox/firefox -contentproc -childID 14 -isForBrowser -prefsLen 10536 -prefMapSize 228546 -parentBuildID 20201027185343 -appdir /usr/lib/firefox/browser 11047 true tab
+oadetiba   23904  0.0  0.5 2387276 83360 ?       Sl   Nov10   0:00  |   \_ /usr/lib/firefox/firefox -contentproc -childID 15 -isForBrowser -prefsLen 10611 -prefMapSize 228546 -parentBuildID 20201027185343 -appdir /usr/lib/firefox/browser 11047 true tab
+oadetiba   19569  1.3  0.4 1264780 75012 ?       Sl   Nov10  25:42  \_ /usr/bin/nautilus --gapplication-service
+root       23951  0.0  0.0   7164  2164 pts/0    S    Nov10   0:00  \_ dbus-launch --autolaunch e757ca2772b64c87a1d63c3f35736b1a --binary-syntax --close-stderr
+root       23952  0.0  0.0   7108  3080 ?        Ss   Nov10   0:00  \_ /usr/bin/dbus-daemon --syslog-only --fork --print-pid 5 --print-address 7 --session
+root       23954  0.0  0.0 240056  8372 ?        Sl   Nov10   0:00  \_ /usr/bin/gnome-keyring-daemon --start --foreground --components=secrets
+oadetiba   49809  0.0  0.9 921200 147884 ?       SNl  06:57   0:09  \_ /usr/bin/python3 /usr/bin/update-manager --no-update --no-focus-on-map
+oadetiba    6872  0.0  0.0 240208  7580 ?        Sl   Nov09   0:00 /usr/bin/gnome-keyring-daemon --daemonize --login
+oadetiba    7014  0.0  0.0  24676   328 ?        S    Nov09   0:00 /usr/bin/VBoxClient --clipboard
+oadetiba    7015  0.0  0.0  91024  4132 ?        Sl   Nov09   0:00  \_ /usr/bin/VBoxClient --clipboard
+oadetiba    7023  0.0  0.0  24676   324 ?        S    Nov09   0:00 /usr/bin/VBoxClient --display
+oadetiba    7025  0.0  0.0  24812  3316 ?        S    Nov09   0:00  \_ /usr/bin/VBoxClient --display
+oadetiba    7028  0.0  0.0  24676   324 ?        S    Nov09   0:00 /usr/bin/VBoxClient --seamless
+oadetiba    7030  0.0  0.0  90860  2092 ?        Sl   Nov09   0:00  \_ /usr/bin/VBoxClient --seamless
+oadetiba    7033  0.0  0.0  24676   324 ?        S    Nov09   0:00 /usr/bin/VBoxClient --draganddrop
+oadetiba    7036  0.1  0.0  91380  2092 ?        Sl   Nov09   4:16  \_ /usr/bin/VBoxClient --draganddrop
+geoclue     7175  0.0  0.1 361556 19772 ?        Ssl  Nov09   0:01 /usr/libexec/geoclue
+root       27501  0.0  0.0  28548  9060 ?        Ss   00:00   0:00 /usr/sbin/cupsd -l
+root       27502  0.0  0.0 180440 12696 ?        Ssl  00:00   0:00 /usr/sbin/cups-browsed
